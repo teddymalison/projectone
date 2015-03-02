@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project One COM402</title>
+<meta charset="utf-8"/> 
+<style>
+<link href='http://fonts.googleapis.com/css?family=Cedarville+Cursive' rel='stylesheet' type='text/css'>
+</style>
+<body>
+<h1><center>A Little About Me...</center></h1> 
+
+<div class="aboutMe">
+
+<img src="project1pic1.jpg" alt="Picture1" title="I love Borzois."/>
+<img src="project1pic2.jpg" alt="Picture2" title="But I also love Papillons."/>
+<img src="project1pic3.jpg" alt="Picture3" title="I've been an Ice Dancer for 13 years."/>
+<img src="project1pic4.jpg" alt="Picture4" title="I love red lipstick and pearls."/>
+<img src="project1pic5.jpg" alt="Picture5" title="I'm kind of obsessed with Lilly Pulitzer..."/>
+<img src="project1pic6.jpg" alt="Picture6" title="I'm a beach baby forever."/>
+<img src="project1pic7.jpg" alt="Picture7" title="I love healthy foods, because I have celiacs."/>
+<img src="project1pic8.jpg" alt="Picture8" title="I love green smoothies over any. I drink one everyday."/>
+<img src="project1pic9.jpg" alt="Picture9" title="I'm looking into writing for a wedding magazine."/>
+
+</div>
+
+
+
+
+
+</head>
+</body>
